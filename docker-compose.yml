@@ -4,4 +4,4 @@ services:
     image: logorfail:latest
     build: .
     volumes:
-      - ./:/app/
+      - ./appfile:/app/appfile/

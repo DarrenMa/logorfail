@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const logger = log({ console: true, file: false, label: 'logorfail' });
 
-const filePath = './app/logorfail.log';
+const filePath = './appfile/logorfail.log';
 
 const sleep = promisify(setTimeout)
 

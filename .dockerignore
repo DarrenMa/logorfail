@@ -26,3 +26,4 @@ coverage/
 configurations/
 dist/config.json
 node_modules/
+app/
