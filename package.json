@@ -1,0 +1,17 @@
+{
+  "name": "logorfail",
+  "version": "1.0.0",
+  "description": "log msg if file exists or throw an error",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "d.ma",
+  "license": "MIT",
+  "dependencies": {
+    "@rama41222/node-logger": "^1.0.1"
+  }
+}

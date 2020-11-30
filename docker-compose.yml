@@ -1,0 +1,7 @@
+version: '3.4'
+services:
+  logorfail:
+    image: logorfail
+    build: .
+    volumes:
+      - ./:/app/
